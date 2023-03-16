@@ -5,7 +5,7 @@ This repository contains a C++ implementation of a Min Heap data structure. The 
 ## Usage
 
 1. Clone the repository.
-2. Compile the `main.cpp` file.
+2. Compile the `minHeap.cpp minHeap.h` files.
 3. Run the compiled binary.
 
 ## Functions
